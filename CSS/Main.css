@@ -9,22 +9,15 @@ body {
 
 div {
 	display: flex;
-	width: 100%;
-	height: 100%;
-}
-
-.main-body {
-	flex-direction: column;
+	
 }
 
 .logoheader { 
-    width: 10vh;
 	height: 10vh;
 }
 
 .mainheader {
 	justify-content: center;
-	flex-direction: row;
 }
 
 .illustrationloupe{
@@ -41,6 +34,22 @@ div {
   margin-bottom: 1vh;
   margin-left: 1vh;
   font-size: 5vh;
-  width: 70vh;
   height: 5vh;
+}
+.headerblank1{
+	width: 40vh;
+}
+
+.headerblank2{
+
+	width: 40vh;
+}
+
+.headerbuttons{
+
+}
+
+.mainheadercontent {
+	flex-direction: row;
+	justify-content: space-between;
 }
