@@ -42,7 +42,7 @@ div {
 
 .headerblank2{
 
-	width: 40vh;
+	width: 25vh;
 }
 
 .headerbuttons{
@@ -52,4 +52,18 @@ div {
 .mainheadercontent {
 	flex-direction: row;
 	justify-content: space-between;
+}
+
+.headergetapp {
+	font-size: 3vh;
+  height: 3vh;
+}
+
+.headerlogin {
+	font-size: 3vh;
+  height: 3vh;
+}
+
+.headerpersonicon{
+	height: 10vh;
 }
