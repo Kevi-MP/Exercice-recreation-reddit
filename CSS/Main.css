@@ -16,3 +16,17 @@ div {
 .main-body {
 	flex-direction: column;
 }
+
+.logoheader { 
+    width: 10vh;
+	height: 10vh;
+}
+
+.searchlogo { 
+    width: 5vh;
+	height: 5vh;
+}
+
+.searchbarheader {
+ justify-content: space space-evenly;
+}
