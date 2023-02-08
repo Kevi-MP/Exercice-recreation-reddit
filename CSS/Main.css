@@ -46,7 +46,7 @@ div {
 }
 
 .headerbuttons{
-
+margin-right: 0vh;
 }
 
 .mainheadercontent {
@@ -72,6 +72,13 @@ div {
 	width: 25vh;
 	height: 5vh;
 
+}
+
+.splitterlineheadertomain{
+	background-color: black;
+	width: 190vh;
+	height: 1px;
+	
 }
 
 .main-navigation{
@@ -133,4 +140,10 @@ div {
 	height: 100vh;
 	background-color: black;
 	width: 1px;
+}
+
+.main-content-block{
+	background-color: gray;
+	width: 190vh;
+	height: 100vh;
 }
