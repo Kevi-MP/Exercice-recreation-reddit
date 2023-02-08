@@ -143,7 +143,26 @@ margin-right: 0vh;
 }
 
 .main-content-block{
-	background-color: gray;
+	background-color: #d3d3d3;
 	width: 190vh;
 	height: 100vh;
+}
+
+.trendingtodaysection{
+	flex-direction: column;
+}
+
+.mainbcontentblockblank1{
+	width: 10vh;
+}
+
+.trendingtodayblanksplitter{
+	height: 3vh;
+	width: 10vh;
+}
+
+.trendingblock1{
+	background-color: aquamarine;
+	width: 40vh;
+	height: 20vh;
 }
