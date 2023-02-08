@@ -213,3 +213,30 @@ margin-right: 0vh;
 .blockarticlepreview{
 	font-size: smaller;
 }
+
+.main-content-block{
+	flex-direction: column;
+}
+
+.mainblank3{
+	width: 120vh;
+	height: 5vh;
+}
+
+.popularpostsmenu{
+	flex-direction: column;
+}
+
+.popularpostsblanksplitter{
+	width: 100vh;
+	height: 3vh;
+
+}
+.popularpostsbox{
+	background-color: white;
+
+	width: 100vh;
+	height: 5vh;
+	justify-content: space-around;
+}
+
