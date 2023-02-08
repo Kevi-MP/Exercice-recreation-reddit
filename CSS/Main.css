@@ -169,6 +169,7 @@ margin-right: 0vh;
 	background-color: aquamarine;
 	width: 35vh;
 	height: 20vh;
+	flex-direction: column;
 }
 
 .trendingblockblank1{
@@ -179,6 +180,7 @@ margin-right: 0vh;
 	background-color: pink;
 	width: 35vh;
 	height: 20vh;
+	flex-direction: column;
 }
 
 .trendingblockblank2{
@@ -189,6 +191,7 @@ margin-right: 0vh;
 	background-color: rgb(250, 194, 97);
 	width: 35vh;
 	height: 20vh;
+	flex-direction: column;
 }
 
 .trendingblockblank3{
@@ -199,6 +202,14 @@ margin-right: 0vh;
 	background-color: rgb(154, 130, 241);
 	width: 35vh;
 	height: 20vh;
+	flex-direction: column;
 }
 
+.insideblockblank{
+	width: 120vh;
+	height: 10vh;
+}
 
+.blockarticlepreview{
+	font-size: smaller;
+}
