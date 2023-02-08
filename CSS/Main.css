@@ -161,8 +161,44 @@ margin-right: 0vh;
 	width: 10vh;
 }
 
+.trendingblocks{
+	flex-direction: row;
+}
+
 .trendingblock1{
 	background-color: aquamarine;
 	width: 40vh;
 	height: 20vh;
 }
+
+.trendingblockblank1{
+	width: 5vh;
+}
+
+.trendingblock2{
+	background-color: pink;
+	width: 40vh;
+	height: 20vh;
+}
+
+.trendingblockblank2{
+	width: 5vh;
+}
+
+.trendingblock3{
+	background-color: rgb(250, 194, 97);
+	width: 40vh;
+	height: 20vh;
+}
+
+.trendingblockblank3{
+	width: 5vh;
+}
+
+.trendingblock4{
+	background-color: rgb(154, 130, 241);
+	width: 40vh;
+	height: 20vh;
+}
+
+
