@@ -76,6 +76,7 @@ div {
 
 .main-navigation{
 	flex-direction: column;
+	font-size: 2vh
 
 }
 
@@ -110,4 +111,26 @@ div {
 
 .celebrityicon{ 
 	height: 2vh;
+}
+
+.mainblank1{
+	width: 3vh;
+}
+
+.navblank1{
+	height: 5vh;
+}
+
+.navblank2{
+	height: 20vh;
+}
+
+.mainblank2{
+	width: 1vh;
+}
+
+.navsplitter{
+	height: 100vh;
+	background-color: black;
+	width: 1px;
 }
