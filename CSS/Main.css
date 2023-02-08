@@ -67,3 +67,13 @@ div {
 .headerpersonicon{
 	height: 10vh;
 }
+
+.main-navigation{
+	flex-direction: column;
+
+}
+
+.topics-menu{
+	flex-direction: column;
+
+}
