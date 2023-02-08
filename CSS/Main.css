@@ -77,3 +77,31 @@ div {
 	flex-direction: column;
 
 }
+
+.popularicon{ 
+	height: 2vh;
+}
+
+.gamingicon{ 
+	height: 2vh;
+}
+
+.sportsicon{ 
+	height: 2vh;
+}
+
+.businessicon{ 
+	height: 2vh;
+}
+
+.cryptoicon{ 
+	height: 2vh;
+}
+
+.televisionicon{ 
+	height: 2vh;
+}
+
+.celebrityicon{ 
+	height: 2vh;
+}
