@@ -149,6 +149,13 @@ margin-right: 0vh;
 	height: 100vh;
 }
 
+	flex-direction: row;
+}
+
+.space-to-main-block{
+background-color: #d3d3d3;
+width: 5vh;
+}
 
 .trendingtodaysection{
 	flex-direction: column;
