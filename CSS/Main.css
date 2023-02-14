@@ -82,6 +82,14 @@ margin-right: 0vh;
 	
 }
 
+.main-navigation-spacing{
+	flex-direction: row;
+}
+
+.space-to-nav-start{
+width: 2vh;
+}
+
 .main-navigation{
 	flex-direction: column;
 	font-size: 2vh
@@ -149,6 +157,7 @@ margin-right: 0vh;
 	height: 100vh;
 }
 
+.main-content-block-spacing{
 	flex-direction: row;
 }
 
@@ -296,4 +305,31 @@ height: 2vh;
 	background-color: black;
 	width: 1px;
 	height: 60px;
+}
+
+.postboxheaderblank1
+{
+width: 1vh;
+}
+
+.postboxheaderblank2
+{
+width: 2vh;
+}
+
+.postboxheaderblank3
+{
+width: 60vh;
+}
+
+.joinbuttonicon{
+height: 4vh;
+}
+
+.postboxheader{
+	flex-direction: row;
+}
+
+.userpostdetail{
+	font-size: small;
 }
