@@ -334,10 +334,6 @@ div {
 	font-size: small;
 }
 
-.postboxfooterbuttons {
-	flex direction: row;
-}
-
 .postboxfooter {
 	flex-direction: row;
 }
