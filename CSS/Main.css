@@ -149,12 +149,13 @@ margin-right: 0vh;
 	height: 100vh;
 }
 
+
 .trendingtodaysection{
 	flex-direction: column;
 }
 
-.mainbcontentblockblank1{
-	width: 10vh;
+.mainbcontentblockverticalblank1{
+	height: 5vh;
 }
 
 .trendingtodayblanksplitter{
@@ -263,4 +264,29 @@ margin-right: 0vh;
 	width: 100vh;
 	height: auto;
 
+}
+
+.PostboxUpvoteCounter{
+	flex-direction: column;
+}
+
+.postboxupvoteicon {
+height: 2vh;
+}
+
+.postboxdownvoteicon{
+	height: 2vh;
+}
+
+.upvoteimage {
+	width: 2vh;
+}
+
+.blanktopostboxsplitter{
+	width: 1vh;
+}
+.postboxsplitter{
+	background-color: black;
+	width: 1px;
+	height: 60px;
 }
