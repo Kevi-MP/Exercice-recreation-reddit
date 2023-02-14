@@ -1,7 +1,8 @@
 body {
 	margin: 0;
 	padding: 0;
-	height: 100vh;
+	height: 100%;
+	width: 100%;
 	background-color: white;
 	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 	color: black;
@@ -93,31 +94,31 @@ margin-right: 0vh;
 }
 
 .popularicon{ 
-	height: 2vh;
+	height: 4vh;
 }
 
 .gamingicon{ 
-	height: 2vh;
+	height: 4vh;
 }
 
 .sportsicon{ 
-	height: 2vh;
+	height: 4vh;
 }
 
 .businessicon{ 
-	height: 2vh;
+	height: 4vh;
 }
 
 .cryptoicon{ 
-	height: 2vh;
+	height: 4vh;
 }
 
 .televisionicon{ 
-	height: 2vh;
+	height: 4vh;
 }
 
 .celebrityicon{ 
-	height: 2vh;
+	height: 4vh;
 }
 
 .mainblank1{
@@ -240,6 +241,17 @@ margin-right: 0vh;
 	justify-content: space-around;
 }
 
+.topicon{
+	height: 4vh
+}
+
+.newicon{
+	height: 4vh
+}
+
+.hoticon{
+	height: 4vh
+}
 .mainblank4{
 	width: 120vh;
 	height: 5vh;
