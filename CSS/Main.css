@@ -10,10 +10,10 @@ body {
 
 div {
 	display: flex;
-	
+
 }
 
-.logoheader { 
+.logoheader {
 	height: 10vh;
 }
 
@@ -21,33 +21,34 @@ div {
 	justify-content: center;
 }
 
-.illustrationloupe{
+.illustrationloupe {
 	width: 8vh;
 	height: 8vh;
 }
 
 .topnav input[type=text] {
-  padding: 1vh;
-  border: 1vh;
-  margin-top: 1vh;
-  margin-right: 1vh;
-  margin-top: 1vh;
-  margin-bottom: 1vh;
-  margin-left: 1vh;
-  font-size: 5vh;
-  height: 5vh;
+	padding: 1vh;
+	border: 1vh;
+	margin-top: 1vh;
+	margin-right: 1vh;
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+	margin-left: 1vh;
+	font-size: 5vh;
+	height: 5vh;
 }
-.headerblank1{
+
+.headerblank1 {
 	width: 40vh;
 }
 
-.headerblank2{
+.headerblank2 {
 
 	width: 25vh;
 }
 
-.headerbuttons{
-margin-right: 0vh;
+.headerbuttons {
+	margin-right: 0vh;
 }
 
 .mainheadercontent {
@@ -57,200 +58,200 @@ margin-right: 0vh;
 
 .headergetapp {
 	font-size: 3vh;
-  height: 3vh;
+	height: 3vh;
 }
 
 .headerlogin {
 	font-size: 3vh;
-  height: 3vh;
+	height: 3vh;
 }
 
-.headerpersonicon{
+.headerpersonicon {
 	height: 10vh;
 }
 
-.splitterheadertomain{
+.splitterheadertomain {
 	width: 25vh;
 	height: 5vh;
 
 }
 
-.splitterlineheadertomain{
+.splitterlineheadertomain {
 	background-color: black;
 	width: 190vh;
 	height: 1px;
-	
+
 }
 
-.main-navigation-spacing{
+.main-navigation-spacing {
 	flex-direction: row;
 }
 
-.space-to-nav-start{
-width: 2vh;
+.space-to-nav-start {
+	width: 2vh;
 }
 
-.main-navigation{
+.main-navigation {
 	flex-direction: column;
 	font-size: 2vh
-
 }
 
-.topics-menu{
+.topics-menu {
 	flex-direction: column;
 
 }
 
-.popularicon{ 
+.popularicon {
 	height: 4vh;
 }
 
-.gamingicon{ 
+.gamingicon {
 	height: 4vh;
 }
 
-.sportsicon{ 
+.sportsicon {
 	height: 4vh;
 }
 
-.businessicon{ 
+.businessicon {
 	height: 4vh;
 }
 
-.cryptoicon{ 
+.cryptoicon {
 	height: 4vh;
 }
 
-.televisionicon{ 
+.televisionicon {
 	height: 4vh;
 }
 
-.celebrityicon{ 
+.celebrityicon {
 	height: 4vh;
 }
 
-.mainblank1{
+.mainblank1 {
 	width: 3vh;
 }
 
-.navblank1{
+.navblank1 {
 	height: 5vh;
 }
 
-.navblank2{
+.navblank2 {
 	height: 20vh;
 }
 
-.mainblank2{
+.mainblank2 {
 	width: 1vh;
 }
 
-.navsplitter{
+.navsplitter {
 	height: 100vh;
 	background-color: black;
 	width: 1px;
 }
 
-.main-content-block{
+.main-content-block {
 	background-color: #d3d3d3;
 	width: 190vh;
 	height: 100vh;
 }
 
-.main-content-block-spacing{
+.main-content-block-spacing {
 	flex-direction: row;
 }
 
-.space-to-main-block{
-background-color: #d3d3d3;
-width: 5vh;
+.space-to-main-block {
+	background-color: #d3d3d3;
+	width: 5vh;
 }
 
-.trendingtodaysection{
+.trendingtodaysection {
 	flex-direction: column;
 }
 
-.mainbcontentblockverticalblank1{
+.mainbcontentblockverticalblank1 {
 	height: 5vh;
 }
 
-.trendingtodayblanksplitter{
+.trendingtodayblanksplitter {
 	height: 3vh;
 	width: 10vh;
 }
 
-.trendingblocks{
+.trendingblocks {
 	flex-direction: row;
 }
 
-.trendingblock1{
+.trendingblock1 {
 	background-color: aquamarine;
 	width: 35vh;
 	height: 20vh;
 	flex-direction: column;
 }
 
-.trendingblockblank1{
+.trendingblockblank1 {
 	width: 8vh;
 }
 
-.trendingblock2{
+.trendingblock2 {
 	background-color: pink;
 	width: 35vh;
 	height: 20vh;
 	flex-direction: column;
 }
 
-.trendingblockblank2{
+.trendingblockblank2 {
 	width: 8vh;
 }
 
-.trendingblock3{
+.trendingblock3 {
 	background-color: rgb(250, 194, 97);
 	width: 35vh;
 	height: 20vh;
 	flex-direction: column;
 }
 
-.trendingblockblank3{
+.trendingblockblank3 {
 	width: 8vh;
 }
 
-.trendingblock4{
+.trendingblock4 {
 	background-color: rgb(154, 130, 241);
 	width: 35vh;
 	height: 20vh;
 	flex-direction: column;
 }
 
-.insideblockblank{
+.insideblockblank {
 	width: 120vh;
 	height: 10vh;
 }
 
-.blockarticlepreview{
+.blockarticlepreview {
 	font-size: smaller;
 }
 
-.main-content-block{
+.main-content-block {
 	flex-direction: column;
 }
 
-.mainblank3{
+.mainblank3 {
 	width: 120vh;
 	height: 5vh;
 }
 
-.popularpostsmenu{
+.popularpostsmenu {
 	flex-direction: column;
 }
 
-.popularpostsblanksplitter{
+.popularpostsblanksplitter {
 	width: 100vh;
 	height: 3vh;
 
 }
-.popularpostsbox{
+
+.popularpostsbox {
 	background-color: white;
 
 	width: 100vh;
@@ -258,23 +259,24 @@ width: 5vh;
 	justify-content: space-around;
 }
 
-.topicon{
+.topicon {
 	height: 4vh
 }
 
-.newicon{
+.newicon {
 	height: 4vh
 }
 
-.hoticon{
+.hoticon {
 	height: 4vh
 }
-.mainblank4{
+
+.mainblank4 {
 	width: 120vh;
 	height: 5vh;
 }
 
-.postbox{
+.postbox {
 	background-color: white;
 
 	width: 100vh;
@@ -282,15 +284,15 @@ width: 5vh;
 
 }
 
-.PostboxUpvoteCounter{
+.PostboxUpvoteCounter {
 	flex-direction: column;
 }
 
 .postboxupvoteicon {
-height: 2vh;
+	height: 2vh;
 }
 
-.postboxdownvoteicon{
+.postboxdownvoteicon {
 	height: 2vh;
 }
 
@@ -298,38 +300,60 @@ height: 2vh;
 	width: 2vh;
 }
 
-.blanktopostboxsplitter{
+.blanktopostboxsplitter {
 	width: 1vh;
 }
-.postboxsplitter{
+
+.postboxsplitter {
 	background-color: black;
 	width: 1px;
-	height: 60px;
+	height: 76px;
 }
 
-.postboxheaderblank1
-{
-width: 1vh;
+.postboxheaderblank1 {
+	width: 1vh;
 }
 
-.postboxheaderblank2
-{
-width: 2vh;
+.postboxheaderblank2 {
+	width: 2vh;
 }
 
-.postboxheaderblank3
-{
-width: 60vh;
+.postboxheaderblank3 {
+	width: 60vh;
 }
 
-.joinbuttonicon{
-height: 4vh;
+.joinbuttonicon {
+	height: 4vh;
 }
 
-.postboxheader{
+.postboxheader {
 	flex-direction: row;
 }
 
-.userpostdetail{
+.userpostdetail {
 	font-size: small;
+}
+
+.postboxfooterbuttons {
+	flex direction: row;
+}
+
+.postboxfooter {
+	flex-direction: row;
+}
+
+.postboxcontent {
+	flex-direction: column;
+}
+
+.shareiconpostbox {
+	height: 2vh;
+}
+
+.commenticonpostbox {
+	height: 2vh;
+}
+
+.saveiconpostbox {
+	height: 2vh;
 }
