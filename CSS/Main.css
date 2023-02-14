@@ -153,7 +153,7 @@ div {
 
 .main-content-block {
 	background-color: #d3d3d3;
-	width: 190vh;
+	width: 100vw;
 	height: 100vh;
 }
 
@@ -224,7 +224,6 @@ div {
 }
 
 .insideblockblank {
-	width: 120vh;
 	height: 10vh;
 }
 
@@ -237,7 +236,7 @@ div {
 }
 
 .mainblank3 {
-	width: 120vh;
+	width: 120vh; 
 	height: 5vh;
 }
 
