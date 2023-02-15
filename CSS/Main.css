@@ -443,3 +443,16 @@ footer{
 .footerrowspace{
 	width: 2vw;
 }
+
+.initialbodyspace{
+	width: 10vw;
+	height: 2vh;
+}
+
+.headergetapp{
+	height: 4vh;
+}
+
+.headerlogin{
+	height: 5vh;
+}
