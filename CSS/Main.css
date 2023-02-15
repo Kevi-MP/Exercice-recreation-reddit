@@ -419,3 +419,19 @@ a:active {
 .spacebetweencommunityrow{
 	height: 1vh;
 }
+.spacetofooter{
+height: 3vh;
+background-color: #d3d3d3;
+}
+
+footer{
+	display: flex;
+	background-color: white;
+}
+
+.footercontent{
+	flex-direction: row;}
+
+.initialfooterspace{
+	width: 3vw;
+}
