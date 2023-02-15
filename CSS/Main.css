@@ -145,7 +145,7 @@ a:link { text-decoration: none;
 }
 
 .mainblank1 {
-	width: 3vh;
+	width: 3vw;
 }
 
 .navblank1 {
@@ -300,6 +300,7 @@ a:link { text-decoration: none;
 
 .PostboxUpvoteCounter {
 	flex-direction: column;
+	align-items: center;
 }
 
 .postboxupvoteicon {
@@ -321,7 +322,7 @@ a:link { text-decoration: none;
 .postboxsplitter {
 	background-color: black;
 	width: 1px;
-	height: 76px;
+	height: 93px;
 }
 
 .postboxheaderblank1 {
@@ -365,5 +366,13 @@ a:link { text-decoration: none;
 }
 
 .saveiconpostbox {
+	height: 2vh;
+}
+
+.postboxfooterspace2{
+	width: 2vw;
+}
+
+.spacetopostboxfooter{
 	height: 2vh;
 }
