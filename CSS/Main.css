@@ -376,3 +376,11 @@ a:link { text-decoration: none;
 .spacetopostboxfooter{
 	height: 2vh;
 }
+
+.space-to-popularcommunities{
+	width: 3vw;
+}
+
+.popularcommunitiesmenu{
+	background-color: white;
+}
