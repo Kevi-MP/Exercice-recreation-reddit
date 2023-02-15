@@ -409,3 +409,13 @@ a:active {
 .space-to-see-more-button{
 	height: 2vh;
 }
+
+.popularcontentsplitter{
+	background-color: #d3d3d3;
+	height: 1px;
+	width: 20vw;
+}
+
+.spacebetweencommunityrow{
+	height: 1vh;
+}
